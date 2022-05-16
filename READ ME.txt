@@ -1,4 +1,0 @@
-BUILD A PERSONAL WEBSITE - A simple lesson from General Assembly to make a personal website with HTML and CSS (basic).
-
-Exercício criado a partir da aula de HTML e CSS basícos da escola General Assembly.
-(CURTO REALIZADO EM INGLÊS)
